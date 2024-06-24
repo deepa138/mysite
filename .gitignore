@@ -1,0 +1,17 @@
+# WordPress core files
+/wp-admin/
+/wp-includes/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+wp-config.php
+
+# Log files
+*.log
+
+# Plugins and themes (optional, if you manage them separately)
+# /wp-content/plugins/
+# /wp-content/themes/

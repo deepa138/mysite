@@ -1,0 +1,13 @@
+/*
+Theme Name:   Twenty Twenty-Four Child
+Theme URI:    https://wordpress.org/themes/twentytwentyone/
+Description:  Twenty Twenty-Four Child theme
+Author:       WordPress.org
+Author URI:   https://wordpress.org/
+Template:     twentytwentyfour
+Version:      1.0.0
+Text Domain:  twentytwentyfourchild
+*/
+body{
+	background-color: gray;
+}
